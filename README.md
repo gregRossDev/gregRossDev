@@ -3,4 +3,4 @@
 
 I enjoy using this platform to practice code and learn in public.
 -
-Some of the repos are freelance projects their viewpoints belong to them are not necessarily my own.  
+Some of the repos are freelance projects their viewpoints belong to them and are not necessarily my own.  

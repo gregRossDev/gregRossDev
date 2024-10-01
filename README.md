@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Greg Ross</h1>
-<h3 align="center">Unraveling Solutions One Line at a Time</h3>
+<h3 align="center">Unraveling Solutions One Codebase at a Time</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
